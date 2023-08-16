@@ -22,8 +22,4 @@ The R code file (Barriers.R) processes and analyzes the data in Cleaned Data.csv
 Data and code are also available on Dryad (hyperlink to be added at publication). 
 
 ## Code/Software
-Code used to analyze the anonymized qualitative data was written in R using RStudio.
-
-This is an optional, freeform section for describing any code and the software used to run it. Describe any scripts, code, or notebooks (e.g., R, Python, Mathematica, MatLab) as well as the software versions (including loaded packages) that you used to run those files. If your repository contains more than one file whose relationship to other scripts is not obvious, provide information about the workflow that you used to run those scripts and notebooks.
-
-
+Code used to analyze the anonymized qualitative data was written in R version 4.2.2 using RStudio.
