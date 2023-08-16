@@ -10,7 +10,7 @@ library(pivottabler)
 #Final_R <- read_excel("Documents/My Tableau Prep Repository/Datasources/Final_R.xlsx")
 
 #Dani's computer
-Final_R <- read_excel("C:/Users/danie/Desktop/PhDan/Agency/v2.xlsx")
+Final_R <- read_excel("C:/Users/danie/Desktop/PhDan/Agency/v2.xlsx") ## Use Cleaned Data.csv here
 View(Final_R)  
 
 
