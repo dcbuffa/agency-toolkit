@@ -1,0 +1,12 @@
+"NB: Data in Cleaned Data.csv is provided in long form. In other words, it is provided in a vertical format. This is required by the likert R package for analysis. ",,,
+,,,
+Variable,Levels,Description ,Notes
+Items ,Assorted,Questions asked to participants,N/A
+Responses,Assorted,Answers to question asked in Item variable.,Blank cells indicate no response was given. Respondent either did not wish to answer or left the survey early.
+Household Number,1 to 247,Randomized numbers assigned to households.,Blank cells indicate no response was given. Respondent either did not wish to answer or left the survey early.
+Age,18 to 72,Self-reported age of participants. Some answers are approximate. ,Blank cells indicate no response was given. Respondent either did not wish to answer or left the survey early.
+Gender,"Female, Male",What gender does the participant describe themselves as? ,N/A
+Highest level of education,"Tsy mianatra, E.P.P (ambaratonga voalohany), C.E.G (ambaratonga faharoa), Lycée (ambaratonga fahatelo), University",What is the highest level of education achieved by the participant? Tsy mianatra means the participant never attended school. Schooling levels are categorized as in the French education system,Blank cells indicate no response was given. Respondent either did not wish to answer or left the survey early.
+Still in school?,"Yes, No",Is the participant still in school? Yes or no,N/A
+Can read/write?,"Yes, No",Can the participant read and/or write? Yes indicates they can do either. ,N/A
+Domain,"expectations, knowledgebeliefs, marginalization, Pragmatics, skills","Which specific category, or domain, of barriers to agency does this question address? Domains are further described in the manuscript.",Blank cells indicate the question was not coded as an indication of a specific category of barrier to agency
