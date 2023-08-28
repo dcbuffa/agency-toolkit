@@ -16,7 +16,7 @@ For focus groups, G.M. and R.S. extended invitations to men and women in the com
 Similarly, we documented oral consent for all participants who agreed to individual interviews. Participants did not receive compensation for participating in individual interviews. To ensure the survey respondents’ anonymity, we removed names and identifying information from data made accessible for open-source access. The Columbia University Internal Review Board reviewed and deemed this research exempt from approval (Columbia IRB #AAAU3639; PSU IRB #00021067). We conducted this research with the requisite permits and approval from the Centre de Documentation et de Recherche sur l’Art et les Traditions Orales à Madagascar and l’Université de Toliara.
 
 ## Descrpition of the data and file structure
-The R code file (Barriers.R) processes and analyzes the data in Cleaned Data.csv. For a description of what variables and values mean, see the data dictionary.
+The R code file (Barriers.R) processes and analyzes the data in Cleaned Data.csv. Data in Cleaned Data.csv is a reformatted version of toolkitsurvey.xlsx provided in long form. In other words, it is provided in a vertical format. Long form data is required by the likert R package for analysis. For a description of what variables and values mean, see the data dictionary. 
 
 ## Sharing/Access information
 Data and code are also available on Dryad (hyperlink to be added at publication). 
